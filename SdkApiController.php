@@ -6,8 +6,8 @@ class SdkApiController
     private $api_user = "thomas";
     private $api_password = "admin";
     private $grant_type = "password";
-    private $client_id = "1_15e7tdk08wao8gsw4g8ssoc04skc0o4c44gw04w4sk488888og";
-    private $client_secret = "3yygqjselgg0s8ggok8ks0s4o8cg80oss4sskkc8sc0wksc04g";
+    private $client_id = "1_id_";
+    private $client_secret = "x_secret_x";
     private $client_name = "Backoffice";
 
     private $access_token;
