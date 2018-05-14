@@ -3,8 +3,8 @@ class SdkApiController
 {
     private $api_url = "http://localhost";
     private $api_auth_url = "http://localhost/oauth/v2/token";
-    private $api_user = "thomas";
-    private $api_password = "admin";
+    private $api_user = "thomas_user_name";
+    private $api_password = "admin_api_password";
     private $grant_type = "password";
     private $client_id = "1_id_";
     private $client_secret = "x_secret_x";
